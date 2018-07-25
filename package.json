@@ -1,0 +1,26 @@
+{
+  "name": "tough-name-generator",
+  "version": "1.0.0",
+  "description": "A module that generates tough names",
+  "main": "tough.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiaant/Tough-Name-Generator.git"
+  },
+  "keywords": [
+    "toughname",
+    "tough",
+    "name",
+    "generator",
+    "random"
+  ],
+  "author": "M4Y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiaant/Tough-Name-Generator/issues"
+  },
+  "homepage": "https://github.com/fabiaant/Tough-Name-Generator#readme"
+}
