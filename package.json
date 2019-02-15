@@ -1,6 +1,6 @@
 {
   "name": "tough-name-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A module that generates tough names",
   "main": "tough.js",
   "scripts": {
