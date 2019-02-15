@@ -2,14 +2,14 @@
 
 This package generates tough names for you, what more could you possibly want?
 
-Originally this was a python program written by my good friend Kyra,
+Originally this was a [Python program](https://bitbucket.org/kyra_gordon/tough-name-generator/src/master/) written by my good friend Kyra,
 follow her!
 - [Mastodon](https://awoo.space/@kyra)
 - [Twitter](https://twitter.com/kyradoesart)
 
 Donate to her!
-- [Paypal](paypal.me/kyragordon)
-- [Patreon](patreon.com/kyrart)
+- [Paypal](https://paypal.me/kyragordon)
+- [Patreon](https://patreon.com/kyrart)
 
 ----
 ## Getting started
