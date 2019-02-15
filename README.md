@@ -2,8 +2,14 @@
 
 This package generates tough names for you, what more could you possibly want?
 
-Originally this was a python program written by my good friend Kyra, follow her
-on [Mastodon](https://awoo.space/@kyra) and [Twitter](https://twitter.com/kyradoesart)!
+Originally this was a python program written by my good friend Kyra,
+follow her!
+- [Mastodon](https://awoo.space/@kyra)
+- [Twitter](https://twitter.com/kyradoesart)
+
+Donate to her!
+- [Paypal](paypal.me/kyragordon)
+- [Patreon](patreon.com/kyrart)
 
 ----
 ## Getting started
